@@ -1,6 +1,6 @@
 ## Portfolio
-This is my small project using html/css/bootstrap. I will be using this to showcase my projects.
-[Live Heroku Deployment](https://portfolio-muniro.herokuapp.com/)
+This is my small project using HTML/ CSS/ BootStrap. I will be using this to showcase my projects.
+[Live Heroku Deployment]()
 
 ![Screenshot 2022-04-04 at 4 24 56 AM](https://user-images.githubusercontent.com/100096498/161452368-47c05235-9bca-40f8-9a15-156e60f9991f.png)
 
